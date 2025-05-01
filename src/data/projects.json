@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "img":"/assets/notes-app.jpg",
+        "title": "Notable",
+        "description": "A web-app created to take notes.",
+        "tech": [
+            "/assets/react.png"
+           
+        ]
+    },
+    {
+        "id": 2,
+        "img":"/assets/weather-app.jpg",
+
+        "title": "Weather App",
+        "description": "A web-app created to know weather conditions of different places.",
+        "tech": [
+            "/assets/react.png"
+           
+        ]
+    },
+    {
+        "id": 3,
+        "img":"/assets/blog-app.jpg",
+
+        "title": "Blog App",
+        "description": "Used NEXTJS to build a dynamic blog writing full-stack platform. Leveraging AuthJs for authentication and MongoDB with Prisma ORM for efficient schema modeling.",
+        "tech": [
+            "/assets/next.png",
+            "/assets/mongo.png",
+            "/assets/prisma.png"
+           
+        ]
+    },
+    {
+        "id": 4,
+        "img":"/assets/ai-notetaking-app.jpg",
+        "title": "SplitScribe",
+        "description": "Ongoing project to create an AI-powered note-taking saas application that allows users to upload PDFs and automatically generates concise, insightful summaries using advanced AI algorithms using ConvexDB as the DB & Clerk Auth to authorize users.",
+        "tech": [
+            "/assets/next.png"
+            
+        ]
+    }
+   
+]
