@@ -2,7 +2,7 @@
 import React from "react";
 import heroImg from "/assets/sneha-portfolio-image.png";
 function Hero() {
-    const PDF_FILE_URL="http://localhost:5173/snehabarua.pdf"
+    const PDF_FILE_URL="https://portfolio-lilac-ten-37.vercel.app/snehabarua.pdf"
   const downloadFile=(url)=>{
 const fileName = url.split("/").pop();
 const aTag = document.createElement("a");
